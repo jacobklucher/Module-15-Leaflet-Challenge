@@ -20,7 +20,6 @@ Module-15-Leaflet-Challenge
 
 The *Leaflet-Part-1* folder contains the working project files and folders.
 + **index.html** is the webpage used to display the earthquake visualizations.
-+ **NoSQL_analysis_starter.ipynb** is the second Jupyter Notebook file used to analyze the database.
 
 The *static* folder contains both the *css* and *js* folders used to hold stylesheets and JavaScript files respectively.
 + **style.css** is the stylesheet used by the webpage to style the plotted map and the map legend.
